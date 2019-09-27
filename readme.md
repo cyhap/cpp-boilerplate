@@ -3,9 +3,9 @@
 [![Coverage Status](https://coveralls.io/repos/github/cyhap/cpp-boilerplate/badge.svg?branch=ACME_PID)](https://coveralls.io/github/cyhap/cpp-boilerplate?branch=ACME_PID)
 ---
 
-## Authors
-Corbyn Yhap
-Charan-Karthikeyan
+## Part 1 Authors
+Corbyn Yhap (Driver)
+Charan-Karthikeyan (Navigator)
 
 ## Overview
 
