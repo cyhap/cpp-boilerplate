@@ -1,6 +1,6 @@
 # C++ Boilerplate
 [![Build Status](https://travis-ci.org/cyhap/cpp-boilerplate.svg?branch=ACME_PID)](https://travis-ci.org/cyhap/cpp-boilerplate)
-[![Coverage Status](https://coveralls.io/repos/github/dpiet/cpp-boilerplate/badge.svg?branch=master)](https://coveralls.io/github/dpiet/cpp-boilerplate?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/cyhap/cpp-boilerplate/badge.svg?branch=ACME_PID)](https://coveralls.io/github/cyhap/cpp-boilerplate?branch=ACME_PID)
 ---
 
 ## Overview
