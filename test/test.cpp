@@ -13,8 +13,7 @@
 
 TEST(ValidatePIDClass, estimateVelocity) {
   Pid myPid(10, 5, 5);
-  double expected = 850;
-  EXPECT_EQ(expected, myPid.estimateVelocity(40, 20, 0.5));
+  EXPECT_EQ(450, myPid.estimateVelocity(40, 20, 0.5));
 }
 
 TEST(ValidatePIDClass, TestPIDConstructor) {
