@@ -1,6 +1,6 @@
 # C++ Boilerplate
-[![Build Status](https://travis-ci.org/Ip-umd/cpp-boilerplate.svg?branch=master)](https://travis-ci.org/Ip-umd/cpp-boilerplate)
-[![Coverage Status](https://coveralls.io/repos/github/Ip-umd/cpp-boilerplate/badge.svg?branch=master)](https://coveralls.io/github/Ip-umd/cpp-boilerplate?branch=master)
+[![Build Status](https://travis-ci.org/cyhap/cpp-boilerplate.svg?branch=master)](https://travis-ci.org/Ip-umd/cpp-boilerplate)
+[![Coverage Status](https://coveralls.io/repos/github/cyhap/cpp-boilerplate/badge.svg?branch=master)](https://coveralls.io/github/cyhap/cpp-boilerplate?branch=master)
 ---
 
 ## Part 1 Authors
