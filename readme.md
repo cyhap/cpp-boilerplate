@@ -7,12 +7,13 @@
 Corbyn Yhap (Driver)
 Charan-Karthikeyan (Navigator)
 
+## Part 2 Authors
+Ishan Patel (Driver)
+Satyarth Praveen (Navigator)
+
 ## Overview
 
-Simple PID Controller and starter C++ project with:
-
-- cmake
-- googletest
+Simple demonstration of Test Driven Development.
 
 ## Standard install via command-line
 ```
