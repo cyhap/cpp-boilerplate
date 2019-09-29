@@ -35,3 +35,18 @@ make
 make code_coverage
 ```
 This generates a index.html page in the build/coverage sub-directory that can be viewed locally in a web browser.
+
+## Group discussions summary
+Discussion regarding build history:
+There were no build errors in the part2 of the assignment after implementations.
+So no major build related updates were needed.
+
+Discussion regarding coverage history:
+Coverage was 100% for this repository after a successful build. Coverage details are mentioned in the results repository.
+
+Discussion regarding improved tests:
+Currently the code base aligns with the class deisgn and is not complex enough for more test functions to be required.
+
+But in case this project is extended to its greater functionality, i.e. tuning of gain parameters or update time units, 
+there would be many more tests that would be needed to ensure the credibility of the program.
+
