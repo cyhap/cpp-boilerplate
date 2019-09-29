@@ -31,34 +31,39 @@ Pid::Pid(double Kp, double Ki, double Kd)
 
 double Pid::getDifferentialGain() {
   // TODO(Team2) Return Member Variable
-  return 0;
+  return Kd;
 }
 
 double Pid::getIntegralGain() {
   // TODO(Team2) Return Member Variable
-  return 0;
+  return Ki;
 }
 
 double Pid::getProportionalGain() {
   // TODO(Team2) Return Member Variable
-  return 0;
+  return Kp;
 }
 
 void Pid::setProportionalGain(double Kp) {
   // TODO(Team2) Set Member Variable
+  this->Kp = Kp;
 }
 
 void Pid::setIntegralGain(double Ki) {
   // TODO(Team2) Set Member Variable
+  this->Ki = Ki;
 }
 
 void Pid::setDifferentialGain(double Kd) {
   // TODO(Team2) Set Member Variable
+  this->Kd = Kd;
 }
 
 double Pid::estimateVelocity(double targetVelocity, double actualVelocity,
                              double dt) {
   // TODO(Team2) Note dt value has a default argument defined in the header.
   // Add computation to compute the estimated velocity given provided info.
-  return 0;
+  double error = targetVelocity - actualVelocity;
+  double output = Kp * error + Ki * error * dt + Kd * error / dt;
+  return output;
 }
